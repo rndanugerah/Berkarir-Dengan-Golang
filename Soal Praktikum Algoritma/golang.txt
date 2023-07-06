@@ -1,0 +1,3 @@
+heii ini Randy
+
+nyoba nambah text di golang.txt pada branch featureA
