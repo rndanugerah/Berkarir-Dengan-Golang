@@ -31,7 +31,7 @@ func kelipatan7() {
 }
 
 func luasTrapesium() {
-	var tinggi, panjangA, panjangB int
+	var tinggi, panjangA, panjangB float64
 	tinggi = 25
 	panjangA = 10
 	panjangB = 20
